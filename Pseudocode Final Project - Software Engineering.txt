@@ -1,0 +1,32 @@
+Peminjaman Buku
+1. Start
+2. READ AND WRITE "unduh_aplikasi" with string
+3. READ AND WRITE "buka_aplikasi" with string
+4. READ AND WRITE "menu_login" with string
+5. IF "punya_akun is FALSE"
+	Daftar with string
+ELSE "punya_akun is TRUE"
+	Login with string
+6. READ AND WRITE "halaman_utama" with string
+7. READ AND WRITE "memilh_buku" with string
+8. WHILE "tidak_tersedia is TRUE"
+	DO back to step 7
+9. READ AND WRITE "berhasil_pinjam" with string
+10. END
+
+
+
+Pengembalian Buku
+1. Start
+2. READ AND WRITE "unduh_aplikasi" with string
+3. READ AND WRITE "buka_aplikasi" with string
+4. READ AND WRITE "menu_login" with string
+5. IF "punya_akun is FALSE"
+	Daftar with string
+ELSE "punya_akun is TRUE"
+	Login with string
+6. READ AND WRITE "halaman_utama" with string
+7. READ AND WRITE "menu_pengembalian" with string
+8. READ AND WRITE "Mengembalikan_buku" with string
+9. READ AND WRITE "berhasil_dikembalikan" with string
+10. END
